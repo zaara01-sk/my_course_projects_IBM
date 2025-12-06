@@ -1,0 +1,6 @@
+pandas
+dash
+plotly
+matplotlib
+seaborn
+folium
